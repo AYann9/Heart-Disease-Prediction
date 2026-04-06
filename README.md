@@ -36,10 +36,6 @@ Using XGBoost + SHAP:
 - Most important: caa (number of major vessels)
 - Least important: fbs (fasting blood sugar)
 
-## Installation
-```bash
-pip install -r requirements.txt
-
 ---
 
 ## 📝 License
