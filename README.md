@@ -39,3 +39,8 @@ Using XGBoost + SHAP:
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+---
+
+## 📝 License
+This project is for **academic & educational use only**.
