@@ -35,8 +35,3 @@ Visualize distribution of heart disease dataset:
 Using XGBoost + SHAP:
 - Most important: caa (number of major vessels)
 - Least important: fbs (fasting blood sugar)
-
----
-
-## 📝 License
-This project is for **academic & educational use only**.
